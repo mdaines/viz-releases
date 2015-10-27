@@ -8,7 +8,8 @@
   "description": "A hack to put Graphviz on the web.",
   "main": "viz.js",
   "keywords": [
-    "graphviz"
+    "graphviz",
+    "emscripten"
   ],
   "ignore": [
     "README.md",
