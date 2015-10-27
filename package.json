@@ -1,0 +1,20 @@
+{
+  "name": "viz.js",
+  "version": "1.2.0",
+  "description": "A hack to put Graphviz on the web.",
+  "main": "viz.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdaines/viz.js.git"
+  },
+  "keywords": [
+    "graphviz",
+    "emscripten"
+  ],
+  "author": "Mike Daines <mdaines@fastmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdaines/viz.js/issues"
+  },
+  "homepage": "https://github.com/mdaines/viz.js"
+}
