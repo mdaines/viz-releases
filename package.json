@@ -12,7 +12,7 @@
     "emscripten"
   ],
   "author": "Mike Daines <mdaines@fastmail.com>",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/mdaines/viz.js/issues"
   },
